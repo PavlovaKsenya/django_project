@@ -1,0 +1,24 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.*" />
+          <option value="model.create_model.AffineTransform" />
+          <option value="model.create_model.warp" />
+          <option value="transform.rotate" />
+          <option value="np.ndarray" />
+          <option value="np.array" />
+          <option value="np.uint8" />
+          <option value="transform.AffineTransform" />
+          <option value="np.ones" />
+          <option value="np.expand_dims" />
+          <option value="np.argmax" />
+          <option value="np.vstack" />
+          <option value="np.reshape" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
