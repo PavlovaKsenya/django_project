@@ -9,7 +9,8 @@ from blog.forms import AddPostForm, RegisterUserForm, LoginUserForm
 from blog.models import *
 from blog.utils import DataMixin
 
-menu = [{'title': 'Добавить статью', 'url_name': 'addpage'},
+menu = [{'title': 'Лучшие рецепты мира', 'url_name': 'home'},
+        {'title': 'Добавить статью', 'url_name': 'addpage'},
         # {'title': 'Войти', 'url_name': 'login'}
        ]
 
